@@ -2,8 +2,10 @@
 
 This is my first Ruby practice project.
 
+
 ## Requirements
-- Ruby 3.x
+- Ruby 3.4.6+
+
 
 ## Run
 
